@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.kahhoe_flutter_dev">
+    package="life.tura.kahhoe_flutter_dev">
    <application
         android:label="kahhoe_flutter_dev"
         android:icon="@mipmap/ic_launcher">
