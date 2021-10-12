@@ -1,4 +1,4 @@
-package com.example.kahhoe_flutter_dev
+package life.tura.kahhoe_flutter_dev
 
 import io.flutter.embedding.android.FlutterActivity
 
